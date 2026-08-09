@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D53E40F-37E3-42B1-8848-F4C6F8313A17}|irrFontTool_vc11.vcxproj|D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\CFontTool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D53E40F-37E3-42B1-8848-F4C6F8313A17}|irrFontTool_vc11.vcxproj|solutionrelative:CFontTool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D53E40F-37E3-42B1-8848-F4C6F8313A17}|irrFontTool_vc11.vcxproj|D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\CFontTool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D53E40F-37E3-42B1-8848-F4C6F8313A17}|irrFontTool_vc11.vcxproj|solutionrelative:CFontTool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D53E40F-37E3-42B1-8848-F4C6F8313A17}|irrFontTool_vc11.vcxproj|D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D53E40F-37E3-42B1-8848-F4C6F8313A17}|irrFontTool_vc11.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio 2022 Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -13,17 +25,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CFontTool.h",
+              "DocumentMoniker": "D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\CFontTool.h",
+              "RelativeDocumentMoniker": "CFontTool.h",
+              "ToolTip": "D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\CFontTool.h",
+              "RelativeToolTip": "CFontTool.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-26T21:43:43.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CFontTool.cpp",
+              "DocumentMoniker": "D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\CFontTool.cpp",
+              "RelativeDocumentMoniker": "CFontTool.cpp",
+              "ToolTip": "D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\CFontTool.cpp",
+              "RelativeToolTip": "CFontTool.cpp",
+              "ViewState": "AgIAALICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-26T21:43:42.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Irrlicht\\irrlicht-1.8.5\\tools\\IrrFontTool\\newFontTool\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAkwMoBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-26T21:43:15.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Microsoft.CppBuild.targets",
               "DocumentMoniker": "D:\\Visual Studio 2022 Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual Studio 2022 Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
               "ToolTip": "D:\\Visual Studio 2022 Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Visual Studio 2022 Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
-              "ViewState": "AgIAALMBAAAAAAAAAAAWwMcBAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAWwMcBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-02-10T04:36:06.157Z",
               "EditorCaption": ""

@@ -103,6 +103,9 @@
     <Filter Include="Irrlicht\gui">
       <UniqueIdentifier>{da421793-4674-481c-be46-f7a44e78aee5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="include\tinyglfw">
+      <UniqueIdentifier>{e4ecde4a-bb4f-4fe0-89a8-8e02030bbf7c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\IEventReceiver.h">
@@ -1303,6 +1306,15 @@
     <ClInclude Include="CCgMaterialRenderer.h">
       <Filter>Irrlicht\video</Filter>
     </ClInclude>
+    <ClInclude Include="CGLTFMeshFileLoader.h">
+      <Filter>Irrlicht\scene\loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\lib\tinygltf\json.hpp">
+      <Filter>include\tinyglfw</Filter>
+    </ClInclude>
+    <ClInclude Include="..\lib\tinygltf\tiny_gltf.h">
+      <Filter>include\tinyglfw</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\changes.txt">
@@ -2238,6 +2250,9 @@
       <Filter>Irrlicht\video</Filter>
     </ClCompile>
     <ClCompile Include="..\..\include\ISceneCollisionManager.cpp" />
+    <ClCompile Include="CGLTFMeshFileLoader.cpp">
+      <Filter>Irrlicht\scene\loaders</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Irrlicht.rc" />

@@ -40,7 +40,6 @@ namespace scene
 	class ISceneNode : virtual public io::IAttributeExchangingObject
 	{
 	public:
-
 		//! Constructor
 		ISceneNode(ISceneNode* parent, ISceneManager* mgr, s32 id=-1,
 				const core::vector3df& position = core::vector3df(0,0,0),
@@ -341,7 +340,6 @@ namespace scene
 			if (Parent)
 				Parent->removeChild(this);
 		}
-
 
 		//! Adds an animator which should animate this node.
 		/** \param animator A pointer to the new animator. */

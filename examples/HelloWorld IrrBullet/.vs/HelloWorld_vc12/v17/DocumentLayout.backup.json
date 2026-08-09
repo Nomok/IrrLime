@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Irrlicht\\irrlicht-1.8.5\\examples\\HelloWorld IrrBullet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD4C95C-BA38-4692-BA4B-8C25A86208F9}|HelloWorld_vc12.vcxproj|D:\\IRRLICHT\\IRRLICHT-1.8.5\\EXAMPLES\\HELLOWORLD IRRBULLET\\HELLOWORLDEXAMPLE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AD4C95C-BA38-4692-BA4B-8C25A86208F9}|HelloWorld_vc12.vcxproj|solutionrelative:HELLOWORLDEXAMPLE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD4C95C-BA38-4692-BA4B-8C25A86208F9}|HelloWorld_vc12.vcxproj|D:\\Irrlicht\\irrBullet-master\\examples\\HelloWorld\\helloworldexample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD4C95C-BA38-4692-BA4B-8C25A86208F9}|HelloWorld_vc12.vcxproj|D:\\Irrlicht\\irrlicht-1.8.5\\examples\\HelloWorld IrrBullet\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AD4C95C-BA38-4692-BA4B-8C25A86208F9}|HelloWorld_vc12.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "helloworldexample.h",
+              "DocumentMoniker": "D:\\Irrlicht\\irrlicht-1.8.5\\examples\\HelloWorld IrrBullet\\helloworldexample.h",
+              "RelativeDocumentMoniker": "helloworldexample.h",
+              "ToolTip": "D:\\Irrlicht\\irrlicht-1.8.5\\examples\\HelloWorld IrrBullet\\helloworldexample.h",
+              "RelativeToolTip": "helloworldexample.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-04T00:43:41.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Irrlicht\\irrlicht-1.8.5\\examples\\HelloWorld IrrBullet\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Irrlicht\\irrlicht-1.8.5\\examples\\HelloWorld IrrBullet\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T23:42:50.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "helloworldexample.cpp",
+              "DocumentMoniker": "D:\\Irrlicht\\irrBullet-master\\examples\\HelloWorld\\helloworldexample.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\irrBullet-master\\examples\\HelloWorld\\helloworldexample.cpp",
+              "ToolTip": "D:\\Irrlicht\\irrBullet-master\\examples\\HelloWorld\\helloworldexample.cpp",
+              "RelativeToolTip": "..\\..\\..\\irrBullet-master\\examples\\HelloWorld\\helloworldexample.cpp",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T23:40:02.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

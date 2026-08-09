@@ -881,6 +881,9 @@ bool CD3D9Driver::setRenderTarget(video::ITexture* texture,
 		if (clearZBuffer)
 			flags |= D3DCLEAR_ZBUFFER;
 
+		if (Params.Stencilbuffer)
+			flags |= D3DCLEAR_STENCIL;
+
 		pID3DDevice->Clear(0, NULL, flags, color.color, 1.0f, 0);
 	}
 
