@@ -86,7 +86,7 @@ namespace video
 		//! Flag for polygon offset
 		EMF_POLYGON_OFFSET = 0x80000,
 
-		//! Flag for material type override
+		//! Flag for material type, only used by the override material
 		EMF_MATERIAL_TYPE = 0x100000
 	};
 
